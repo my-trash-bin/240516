@@ -1,0 +1,4 @@
+[package]
+name = "my-trash-bin"
+edition = "2021"
+publish = false
